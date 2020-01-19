@@ -1,0 +1,131 @@
+body{
+    background-color: lightgreen;
+}
+.blok{
+    margin: 0 auto;
+    margin-top: 100px;
+    width: 700px;
+    height: 200px;
+    background-color: lightblue;
+}
+
+#input1T{
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 50px;
+    display: inline-block;
+    font-size: 22px;
+}
+
+#input2T{
+    margin-left: 30px;
+    margin-right: 56px;
+    display: inline-block;
+    font-size: 22px;
+}
+
+.input1{
+    margin-top: 10px;
+    display: inline-block;
+    background-color: white;
+    height: 40px;
+    width: 371px;
+}
+
+#para{
+    margin-left: 20px;
+    font-size: 30px;
+    display: inline;
+}
+
+#input2{
+    display: inline-block;
+    margin-right: 50px;
+    font-size: 30px;
+}
+
+
+
+button{
+    margin-left: 186px;
+    padding: 5px 15px;
+    width: 373px;
+    height: 40px;
+    background-color: orange;
+    border: 2px solid orange;
+}
+
+.under{
+    margin: 0 auto;
+    width: 700px;
+    height: 150px;
+    background-color: blue;
+    position: relative;
+}
+
+#letter1{
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-right: 20px;
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    text-align: center;
+    line-height: 70px;   
+    font-size: 32px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: white;
+}
+
+#letter2{
+    margin-right: 20px;
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    text-align: center;
+    line-height: 70px; 
+    font-size: 32px; 
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: white;
+}
+
+#letter3{
+    margin-right: 20px;
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    text-align: center;
+    line-height: 70px; 
+    font-size: 32px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: white;
+}
+
+#letter4{
+    margin-right: 20px;
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    text-align: center;
+    line-height: 70px;  
+    font-size: 32px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: white;
+}
+
+#letter5{
+    margin-right: 20px;
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    text-align: center;
+    line-height: 70px; 
+    font-size: 32px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: white;
+}
